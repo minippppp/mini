@@ -143,7 +143,7 @@ file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%8
     </div>
 
     <div class="main-photo">
-        <img src="https://github.com/user-attachments/assets/a6aac0a7-294b-4367-96ef-7d0603263a81">
+        <img src="https://github.com/user-attachments/assets/8853ee25-f61b-4968-a966-cb8f28dea63b">
         <div class="description">겨울 영화 3편....</div>
     </div>
 
@@ -165,7 +165,7 @@ file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%8
             <p>올 겨울 눈이 많이오면 다시금 생각나는 영화</p>
         </div>
         <div class="album-item">
-            <img src=>
+            <img src="https://github.com/user-attachments/assets/a6aac0a7-294b-4367-96ef-7d0603263a81">
             <div class="description">시애틀에 잠 못 이루는 밤 </div>
             <p>라디오로 시작된 이야기</p>
             <p>색다른 연말 영화를 원한다면</p>
