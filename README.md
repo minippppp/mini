@@ -203,6 +203,31 @@ file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%8
             <p>운명을 믿는다면 </p>
         </div>
     </div>
+    <div class="album">
+        <div class="album-item">
+            <img src="https://github.com/user-attachments/assets/c5a49537-2488-48cc-bcdb-be5a332298e1">
+            <div class="description">헤어질 결심 </div>
+            <p>완벽한 미장센과 이야기 흐름</p> 
+
+            <p>추운겨울 바다가 떠오르는 영화</p>
+                
+             <p>안개 속에서 헤메이는 사람들</p>
+        </div>
+        <div class="album-item">
+            <img src="https://github.com/user-attachments/assets/5e027747-3658-4247-931e-c088b853ed3e">
+            <div class="description">러브레터</div>
+            <p>겨울 영화의 기본 </p>
+            <p>당신은 잘 지내나요?</p>
+            <p>올 겨울 눈이 많이오면 다시금 생각나는 영화</p>
+        </div>
+        <div class="album-item">
+            <img src="https://github.com/user-attachments/assets/a6aac0a7-294b-4367-96ef-7d0603263a81">
+            <div class="description">시애틀에 잠 못 이루는 밤 </div>
+            <p>라디오로 시작된 이야기</p>
+            <p>색다른 연말 영화를 원한다면</p>
+            <p>운명을 믿는다면 </p>
+        </div>
+    </div>
 
     <footer>
         <p>&copy; 2201709 박정민</p>
