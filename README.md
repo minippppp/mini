@@ -1,8 +1,6 @@
 
 hello
-
 file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC.html
-
 [Uploading 웹개발 최종.html…]()<!DOCTYPE html>
 <img width="543" alt="스크린샷 2024-12-11 오후 4 20 36" src="https://github.com/user-attachments/assets/a6aac0a7-294b-4367-96ef-7d0603263a81" />
 <img width="543" alt="스크린샷 2024-12-11 오후 4 17 10" src="https://github.com/user-attachments/assets/c5a49537-2488-48cc-bcdb-be5a332298e1" />
