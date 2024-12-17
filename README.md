@@ -143,13 +143,13 @@ file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%8
     </div>
 
     <div class="main-photo">
-        <img src="/Users/mini/Desktop/웹개발 사진 /스크린샷 2024-12-11 오후 4.11.03.png" alt="Main Image">
+        <img src=""https://github.com/user-attachments/assets/a6aac0a7-294b-4367-96ef-7d0603263a81"">
         <div class="description">겨울 영화 3편....</div>
     </div>
 
     <div class="album">
         <div class="album-item">
-            <img src="/Users/mini/Desktop/웹개발 사진 /스크린샷 2024-12-11 오후 4.16.16.png" alt="Image 1">
+            <img src="https://github.com/user-attachments/assets/c5a49537-2488-48cc-bcdb-be5a332298e1">
             <div class="description">헤어질 결심 </div>
             <p>완벽한 미장센과 이야기 흐름</p> 
 
@@ -158,14 +158,14 @@ file:///Users/mini/Desktop/%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%80%E1%85%A2%E1%84%8
              <p>안개 속에서 헤메이는 사람들</p>
         </div>
         <div class="album-item">
-            <img src="/Users/mini/Desktop/웹개발 사진 /스크린샷 2024-12-11 오후 4.17.10.png" alt="Image 2">
+            <img src="https://github.com/user-attachments/assets/5e027747-3658-4247-931e-c088b853ed3e">
             <div class="description">러브레터</div>
             <p>겨울 영화의 기본 </p>
             <p>당신은 잘 지내나요?</p>
             <p>올 겨울 눈이 많이오면 다시금 생각나는 영화</p>
         </div>
         <div class="album-item">
-            <img src="/Users/mini/Desktop/웹개발 사진 /스크린샷 2024-12-11 오후 4.20.36.png" alt="Image 3">
+            <img src="https://github.com/user-attachments/assets/8853ee25-f61b-4968-a966-cb8f28dea63b">
             <div class="description">시애틀에 잠 못 이루는 밤 </div>
             <p>라디오로 시작된 이야기</p>
             <p>색다른 연말 영화를 원한다면</p>
